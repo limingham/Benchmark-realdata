@@ -7,7 +7,7 @@ library(tidyverse)
 library(readr)
 library(pheatmap)
 
-setwd('~/ReCIDE/benchmark_syq/返修/github/')
+setwd('~/ReCIDE/benchmark_syq/github/')
 source("./fig5_benchmark/code/function_used.R")
 list_clinical = readRDS("./clinical_in_fig5/clinical_in_fig5.rds")
 
