@@ -5,7 +5,7 @@ library(readr)
 library(pheatmap)
 
 
-setwd('~/ReCIDE/benchmark_syq/返修/github/')
+setwd('~/ReCIDE/benchmark_syq/github/')
 source('./fig3_benchmark/code/function_use.R')
 
 
