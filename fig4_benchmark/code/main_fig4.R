@@ -1,6 +1,6 @@
 library(tidyverse)
 library(reshape2)
-setwd('~/ReCIDE/benchmark_syq/返修/github/')
+setwd('~/ReCIDE/benchmark_syq/github/')
 source("./fig4_benchmark/code/function_2_bulk_total.R")
 
 crit ='conservative'
