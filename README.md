@@ -20,7 +20,7 @@ This study broadens deconvolution benchmarking, offering actionable tools for pr
 All deconvolution results and benchmark codes have now been released!  All deconvolution results are located in the 'benchmark_deconvolution_results' folder, and the code and evaluation results corresponding to each benchmark scenario can be found in the respective figure folder. 
 
 ### Data Used in the Study
-Our research utilized extensive single-cell RNA-seq and bulk RNA-expression data, with their download links provided in the Public_data folder.
+Our research utilized extensive single-cell RNA-seq and bulk RNA-expression data, with their download links provided in the /Benchmark-realdata/Public_data folder.
 
 ### Contact us
 limh25@m.fudan.edu.cn
